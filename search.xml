@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>每日诗词</title>
+      <link href="/2022/09/13/%E6%AF%8F%E6%97%A5%E8%AF%97%E8%AF%8D/%E6%AF%8F%E6%97%A5%E8%AF%97%E8%AF%8D/"/>
+      <url>/2022/09/13/%E6%AF%8F%E6%97%A5%E8%AF%97%E8%AF%8D/%E6%AF%8F%E6%97%A5%E8%AF%97%E8%AF%8D/</url>
+      
+        <content type="html"><![CDATA[<p><a href="'./img/11.jpg'">今日诗词</a><br>千秋无绝色，<br>悦目是佳人,<br>倾国倾城貌，<br>惊为天下人。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>今日小独</title>
+      <link href="/2022/09/13/%E5%B0%8F%E7%8B%AC%E6%96%87%E5%AD%A6/%E5%B0%8F%E7%8B%AC%E5%88%86%E4%BA%AB/"/>
+      <url>/2022/09/13/%E5%B0%8F%E7%8B%AC%E6%96%87%E5%AD%A6/%E5%B0%8F%E7%8B%AC%E5%88%86%E4%BA%AB/</url>
+      
+        <content type="html"><![CDATA[<p>谁能到时间中避难？<br>赵松</p><p>小说《烛烬》成为马洛伊·山多尔最受欢迎之作是必然的。它抵达了诗的纯度。在这部语言密度大、叙事空间结构精密、旨在探测不同精神取向者之间深层精神与道德矛盾的现代小说杰作中，旧时代终结，旧世界瓦解，无论是终生执著骑士精神的将军，还是始终追求音乐至上的康拉德，作为时间深处残存的碎片，他们在默默地面对这空前的失落与虚无的同时，还心怀不可言说的秘密，他们与时间为伴，他们对抗时间，他们努力活下去，他们逐渐失去一切，他们在时间深处饱尝或逃避心灵的苦难……他们曾是灵魂至友，后来变成刻骨铭心的“敌人”，最终在经历漫长时间与痛苦之后，在抵达人生终点之前，接受了无需答案的谅解。</p><p>在这部篇幅不长的作品里，马洛伊·山多尔展现出令人震惊的语言才华与小说技艺。他将貌似悬疑小说的结构和叙述方式，与古典、浪漫而又神秘的气质融合在一起，构建起那个包含了爱与背叛、记忆与毁灭、精神与时间等古老话题和解体重构共进的世界；他以充满庄重与冷酷的骑士气度的开篇感染了你，随即又以独特笔法营造的瞬间意象重叠、思绪不断转换闪回等效果让你陷入心灵的深渊与迷局，并不能不为之折服。要在悬疑的线索里走很久，你才会忽然意识到：这是个真正的悲剧——发生在两类精神取向上截然不同的非凡之人（可称为骑士与艺术家）之间那致命的无法理解、充满误解与最终走向弃信背叛的悲剧。</p><p>《烛烬》给予“背叛”这个古老命题以最为复杂、深刻而又微妙的阐释，也赋予解谜与制谜同体的追忆过程以匈牙利古老森林般的神秘光泽与气息。这部小说最具魅力之处，并非通过充满诗意和神秘感的叙事对宏大的历史背景所做出的某种暗示或映射，而是它能让充满悬念的“背叛”事件中那种神秘而又强烈的张力一直保持到最后。试图揭开谜底的过程的确如同探案与审判，而“审判者”却终究会发现：在经历了截然不同的人生道路和如此漫长的时间熔炼，尤其是最后的对话之后，他已不再需要真相，他要做的，只是把那个拼了一辈子都没拼出的谜图，放在那里。两个都经历了双重背叛、承受了长久的秘密痛苦的老人，就此终于可以一起沉入那再也不需要探究也不会有人知道的过去世界，而这，无论如何都像一个关于时间与自我救赎的隐喻。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>欢迎来到秘密基地</title>
+      <link href="/2022/09/13/hello-world/"/>
+      <url>/2022/09/13/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
