@@ -1,0 +1,141 @@
+/* 背景渐变 */
+#web_bg{
+    /*紫粉渐变*/
+    /*background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);*/
+    /*粉白蓝*/
+    background-image: linear-gradient(-225deg, #dfbacd 0%, #B8DCFF 48%, #58abf3 100%);
+}
+
+/* 页脚footer */
+#footer {
+    /* 与背景渐变效果一致*/
+    background-image: linear-gradient(-225deg, #d6badf 0%, #B8DCFF 28%, #58abf3 100%);
+}
+
+#footer:before {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+
+/* 滚动条 */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #49b1f5;
+    border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #49b1f5;
+    background-image: -webkit-linear-gradient(
+        45deg,
+        rgba(255,255,255,0.4) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(255,255,255,0.4) 50%,
+        rgba(255,255,255,0.4) 75%,
+        transparent 75%,
+        transparent
+    );
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
+
+::-moz-selection {
+    color: #fff;
+    background-color: #49b1f5;
+}
+
+/* 导航栏居中 */
+
+#archive,#page,#category,#tag{
+    width:100%;
+}
+
+@media screen and (min-width: 1300px) {
+    #recent-posts > .recent-post-item .left_radius {
+        border-radius: 8px 8px 0 0;/*圆角修改*/
+    }
+    #recent-posts > .recent-post-item .right_radius {
+        border-radius: 8px 8px 0 0;/*圆角修改*/
+    }
+    .recent-post-item{
+        height:auto !important;/*容器高度自动*/
+    }
+
+    .recent-post-info {
+
+        padding: 0 40px;/*容器内部文字左右间距*/
+        margin-top: 1em;/*容器内部文字上间距*/
+        width: 100%!important;/*容器宽度*/
+    }
+    #recent-posts > .recent-post-item > .recent-post-info > .article-title {
+        -webkit-line-clamp: 1;/*控制标题的行数*/
+        margin-top: 0.3rem; /*控制标题的上间距*/
+        margin-bottom: 0.3rem;/*控制标题的下间距*/
+        color: var(--text-highlight-color);
+        font-size: 1.2em; /*控制标题的字体大小*/
+        line-height: 1.4;/*控制标题的行高*/
+
+    }
+    #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
+        margin-bottom: 1rem;/*控制标题meta信息的底部间距*/
+    }
+}
+
+#nav-right{
+    flex:1 1 auto;
+    justify-content: flex-end;
+    margin-left: auto;
+    display: flex;
+    flex-wrap:nowrap;
+}
+
+/* 去掉导航栏下面的 蓝色 长条 */
+#nav *::after{
+    background-color: transparent!important;
+}
+
+
+/* 二级导航栏横向 */
+.menus_item_child li:not(#sidebar-menus li){
+    float: left;
+    border-radius: 6px!important;
+    -webkit-border-radius: 6px!important;
+    -moz-border-radius: 6px!important;
+    -ms-border-radius: 6px!important;
+    -o-border-radius: 6px!important;
+}
+.menus_item_child:not(#sidebar-menus ul){
+    left:calc(-150%)!important;/*这是估算值，为了保持元素居中的，如果不合适可以自己调*/
+}
+
+
+/* 顶端常驻 */
+.nav-fixed #nav{
+    transform: translateY(58px)!important;
+    -webkit-transform: translateY(58px)!important;
+    -moz-transform: translateY(58px)!important;
+    -ms-transform: translateY(58px)!important;
+    -o-transform: translateY(58px)!important;
+}
+#nav{
+    transition: none!important;
+    -webkit-transition: none!important;
+    -moz-transition: none!important;
+    -ms-transition: none!important;
+    -o-transition: none!important;
+}
+
+#page-header.nav-fixed #nav {
+    background: rgba(9,24,41,0.8) ;
+}
+
+#page-header.nav-fixed #nav {
+    background: rgba(9,24,41,0.8) ; /* 根据自己的颜色来 */
+}
