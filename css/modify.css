@@ -1,6 +1,6 @@
-@import 'nib'
+/* @import 'nib' */
 
-// 顶部图
+/* // 顶部图 */
 #page-header
   &, &:before
     background: transparent !important
