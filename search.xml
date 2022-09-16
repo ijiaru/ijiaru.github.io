@@ -43,6 +43,12 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> 每日诗词 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -62,14 +68,20 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> 小独文学 </tag>
+            
+        </tags>
+      
     </entry>
     
     
     
     <entry>
       <title>欢迎来到秘密基地</title>
-      <link href="/2022/09/13/hello-world/"/>
-      <url>/2022/09/13/hello-world/</url>
+      <link href="/2022/09/13/%E5%88%9D%E6%AC%A1%E8%A7%81%E9%9D%A2/"/>
+      <url>/2022/09/13/%E5%88%9D%E6%AC%A1%E8%A7%81%E9%9D%A2/</url>
       
         <content type="html"><![CDATA[<p>很高兴能在这里见到你，这是我的荣幸，希望以后的日子每天有你</p>]]></content>
       
@@ -80,6 +92,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 顾瞻的感想 </tag>
+            
+        </tags>
       
     </entry>
     
